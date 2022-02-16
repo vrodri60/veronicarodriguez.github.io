@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currecnt a student at California Polytecnic State University pursuing a B.S. Chemisry degree. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy cooking, hiking, and spedning time with friends and family.
 
 ### Contact me
 
