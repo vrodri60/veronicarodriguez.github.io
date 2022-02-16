@@ -3,15 +3,15 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Veronica Rodriguez
 
 # Short bio or description (displayed in the header)
-description: A Short Description
+description: Chemistry B.S. California Polytecnic State University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # To use the Cal Poly Learn by Doing logo put https://raw.githubusercontent.com/[username]/[website_name]/master/images/CP_LBD.jpg
 # But fill in your actual username and website name
-avatar: 
+avatar: https://raw.githubusercontent.com/Veronica Rodriguez/veronicarodriguez.github.io/master/images/CP_LBD.jpg
 
 #
 # Flags below are optional
@@ -23,9 +23,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 
+  github: veronicarodriguez.github.io
   instagram:
-  linkedin:
+  linkedin:www.linkedin.com/in/veronica-rodriguez715
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
