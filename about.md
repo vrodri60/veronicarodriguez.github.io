@@ -14,8 +14,6 @@ When I am not studying, I enjoy spending time with friends and family. I enjoy c
 
 On my free time, I enjoy doing yoga, hiking, kayaking, going to the beach, trying new places to eat, and cooking. 
 
-95238CB2-84C7-4F95-A074-547E6802CFDA.heic
-
 ### Contact me
 
 [vrodri60@calpoly.edu](mailto:vrodri60@calpoly.edu)
